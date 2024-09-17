@@ -1,6 +1,7 @@
 
 import './App.css'
 import CounterView from './features/counter/CounterView'
+import PostView from './features/posts/PostView'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
      <div className='App'>
       <h1>Counter App</h1>
       <CounterView />
+      <PostView />
      </div>
     </>
   )

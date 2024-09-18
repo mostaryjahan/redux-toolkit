@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+section {
+  padding: 2rem;
+  display: grid;
+  grid-gap: 0.5rem;
+  margin-top: 10px;
+}
+
+article {
+  background-color: black;
+  color: wheat;
+  padding: 0.5rem;
+}
